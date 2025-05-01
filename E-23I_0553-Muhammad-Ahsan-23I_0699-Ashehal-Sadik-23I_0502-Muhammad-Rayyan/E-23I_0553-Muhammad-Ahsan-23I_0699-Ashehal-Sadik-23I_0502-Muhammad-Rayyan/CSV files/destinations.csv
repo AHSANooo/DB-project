@@ -1,0 +1,51 @@
+﻿id,name,city,country,description,climate,best_time,popularity,image
+1,Eiffel Tower,Paris,France,Iconic wrought-iron tower with panoramic city views.,Temperate,Spring-Summer,4.85,https://example.com/images/paris_eiffel.jpg
+2,Central Park,New York,USA,"Urban park featuring lakes, meadows, and cultural events.",Continental,Spring-Fall,4.75,https://example.com/images/nyc_centralpark.jpg
+3,Mount Fuji,Fujiyoshida,Japan,Sacred volcano offering climbing routes and scenic vistas.,Temperate,Summer,4.65,https://example.com/images/mount_fuji.jpg
+4,Sydney Opera House,Sydney,Australia,Famous performing-arts center on the harbour.,Temperate,Spring-Summer,4.7,https://example.com/images/sydney_opera.jpg
+5,Colosseum,Rome,Italy,Ancient amphitheater central to Roman culture and history.,Mediterranean,Spring-Fall,4.6,https://example.com/images/rome_colosseum.jpg
+6,Great Wall,Beijing,China,Historic defensive fortification stretching thousands of miles.,Continental,Spring-Autumn,4.8,https://example.com/images/great_wall.jpg
+7,Bali Beaches,Kuta,Indonesia,Popular coastal area known for surf spots and vibrant nightlife.,Tropical,May-September,4.5,https://example.com/images/bali_kuta.jpg
+8,Grand Canyon,Grand Canyon,USA,"Vast gorge carved by the Colorado River, ideal for hiking and rafting.",Arid,Spring-Fall,4.9,https://example.com/images/grand_canyon.jpg
+9,Machu Picchu,Cusco,Peru,Incan citadel set high in the Andes Mountains.,Temperate,April-October,4.95,https://example.com/images/machu_picchu.jpg
+10,Santorini Cliffs,Fira,Greece,Picturesque white-washed villages overlooking the caldera.,Mediterranean,May-October,4.55,https://example.com/images/santorini_fira.jpg
+11,Serengeti National Park,Serengeti,Tanzania,Wildlife reserve famed for great wildebeest migration.,Tropical,June-October,4.7,https://example.com/images/serengeti.jpg
+12,Banff National Park,Banff,Canada,Scenic park in the Rockies with turquoise lakes and glaciers.,Continental,June-September,4.65,https://example.com/images/banff.jpg
+13,Petra Archaeological Site,Wadi Musa,Jordan,Historic rock-cut architecture of the Nabatean kingdom.,Arid,March-May,4.6,https://example.com/images/petra.jpg
+14,Galápagos Islands,Puerto Baquerizo Moreno,Ecuador,Unique archipelago with diverse endemic wildlife.,Tropical,June-November,4.75,https://example.com/images/galapagos.jpg
+15,Niagara Falls,Niagara Falls,Canada/USA,Powerful waterfalls straddling the US–Canada border.,Continental,June-August,4.55,https://example.com/images/niagara.jpg
+16,Victoria Falls,Victoria,Zambia/Zimbabwe,One of the largest and most famous waterfalls in the world.,Tropical,February-May,4.6,https://example.com/images/victoria_falls.jpg
+17,Angkor Wat,Siem Reap,Cambodia,Vast temple complex and UNESCO World Heritage site.,Tropical,November-February,4.7,https://example.com/images/angkor_wat.jpg
+18,Times Square,New York,USA,Bustling commercial intersection famed for bright lights and theaters.,Continental,Year-Round,4.4,https://example.com/images/times_square.jpg
+19,Buckingham Palace,London,UK,Official London residence of the British monarch.,Temperate,Summer,4.3,https://example.com/images/buckingham.jpg
+20,Chichen Itza,Yucatán,Mexico,Pre-Columbian Mayan city and major archaeological site.,Tropical,December-April,4.5,https://example.com/images/chichen_itza.jpg
+21,Table Mountain,Cape Town,South Africa,Flat-topped mountain overlooking the city and Atlantic Ocean.,Mediterranean,October-April,4.55,https://example.com/images/table_mountain.jpg
+22,Iguazu Falls,Puerto Iguazú,Argentina/Brazil,Impressive waterfall system on the Paraná River.,Subtropical,August-October,4.65,https://example.com/images/iguazu.jpg
+23,Great Barrier Reef,Cairns,Australia,Worlds largest coral reef system with rich marine biodiversity.,Tropical,June-November,4.85,https://example.com/images/great_barrier.jpg
+24,Sahara Desert Safari,Merzouga,Morocco,Desert tours including camel treks and overnight camps.,Arid,October-April,4.45,https://example.com/images/sahara.jpg
+25,Blue Lagoon,Reykjavík,Iceland,Geothermal spa known for its mineral-rich blue waters.,Polar,Year-Round,4.8,https://example.com/images/blue_lagoon.jpg
+26,Alhambra,Granada,Spain,Moorish palace and gardens atop the hills of Granada.,Mediterranean,Spring-Fall,4.6,https://example.com/images/alhambra.jpg
+27,Petronas Towers,Kuala Lumpur,Malaysia,Twin skyscrapers with an iconic skybridge and observation deck.,Tropical,June-September,4.35,https://example.com/images/petronas.jpg
+28,Yellowstone NP,Wyoming,USA,"First US national park, featuring geysers and diverse wildlife.",Continental,April-October,4.9,https://example.com/images/yellowstone.jpg
+29,Dubrovnik Old Town,Dubrovnik,Croatia,Walled city on the Adriatic Sea famed for its red roofs.,Mediterranean,May-September,4.5,https://example.com/images/dubrovnik.jpg
+30,Cinque Terre,Liguria,Italy,Five colorful seaside villages linked by scenic hiking trails.,Mediterranean,May-September,4.55,https://example.com/images/cinque_terre.jpg
+31,Moraine Lake,Banff,Canada,Stunning glacially-fed lake with vivid blue waters.,Continental,June-September,4.75,https://example.com/images/moraine_lake.jpg
+32,Dubai Marina,Dubai,UAE,Modern waterfront district with skyscrapers and yachts.,Arid,November-March,4.4,https://example.com/images/dubai_marina.jpg
+33,Christ the Redeemer,Rio de Janeiro,Brazil,Iconic statue atop Corcovado Mountain overlooking the city.,Tropical,December-March,4.7,https://example.com/images/christ_redeemer.jpg
+34,Antelope Canyon,Page,USA,Slot canyon known for its wave-like structure and light beams.,Semi-Arid,March-May,4.65,https://example.com/images/antelope_canyon.jpg
+35,Grand Bazaar,Istanbul,Turkey,Historic covered market with thousands of shops and eateries.,Mediterranean,Spring-Fall,4.45,https://example.com/images/grand_bazaar.jpg
+36,Great Ocean Road,Victoria,Australia,Scenic coastal drive with limestone stacks and rainforests.,Temperate,October-April,4.6,https://example.com/images/great_ocean_road.jpg
+37,Matterhorn,Zermatt,Switzerland,Iconic pyramidal peak of the Alps popular with climbers.,Alpine,June-September,4.8,https://example.com/images/matterhorn.jpg
+38,Cinque Terre,Liguria,Italy,Five colorful seaside villages linked by scenic hiking trails.,Mediterranean,May-September,4.55,https://example.com/images/cinque_terre.jpg
+39,Blue Mountains,Katoomba,Australia,Escarpment area with eucalyptus forests and waterfalls.,Temperate,March-May,4.5,https://example.com/images/blue_mountains.jpg
+40,Neuschwanstein Castle,Schwangau,Germany,Fairy-tale castle overlooking the Alps and lakes.,Continental,June-September,4.7,https://example.com/images/neuschwanstein.jpg
+41,Salar de Uyuni,Uyuni,Bolivia,"World’s largest salt flat, a mirror during rainy season.",High-Altitude,June-November,4.65,https://example.com/images/salar_uyuni.jpg
+42,Forbidden City,Beijing,China,Imperial palace complex at the heart of Beijing.,Continental,Spring-Autumn,4.75,https://example.com/images/forbidden_city.jpg
+43,Yellowknife Aurora,Yellowknife,Canada,Prime spot for viewing the northern lights in winter.,Polar,December-March,4.8,https://example.com/images/northern_lights.jpg
+44,Taj Mahal,Agra,India,17th-century mausoleum and UNESCO World Heritage site.,Subtropical,October-March,4.85,https://example.com/images/taj_mahal.jpg
+45,Oia Sunset,Oia,Greece,Famous sunset viewpoint over white buildings and the Aegean Sea.,Mediterranean,May-September,4.9,https://example.com/images/oia_sunset.jpg
+46,Hagia Sophia,Istanbul,Turkey,Historic basilica and mosque known for its dome and mosaics.,Mediterranean,Spring-Fall,4.65,https://example.com/images/hagia_sophia.jpg
+47,Big Ben,London,UK,Iconic clock tower at the north end of the Palace of Westminster.,Temperate,Year-Round,4.4,https://example.com/images/big_ben.jpg
+48,Mount Kilimanjaro,Moshi,Tanzania,Africa’s highest peak popular with summit climbers.,Tropical,January-March,4.75,https://example.com/images/kilimanjaro.jpg
+49,Great Smoky Mountains,Tennessee,USA,Mountain range known for misty peaks and biodiversity.,Temperate,April-June,4.7,https://example.com/images/smoky_mountains.jpg
+50,Cinque Terre,Liguria,Italy,Five colorful seaside villages linked by scenic hiking trails.,Mediterranean,May-September,4.55,https://example.com/images/cinque_terre.jpg

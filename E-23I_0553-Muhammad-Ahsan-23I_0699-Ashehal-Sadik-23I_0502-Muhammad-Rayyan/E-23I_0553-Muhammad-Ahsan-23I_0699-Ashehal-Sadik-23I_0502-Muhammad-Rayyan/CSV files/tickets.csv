@@ -1,0 +1,51 @@
+﻿id,user_id,related_id,type,subject,description,created_at,status,priority,resolved_at,response_time
+1,37,32,inquiry,Booking Confirmation Issue,User #37 reports issue: booking confirmation issue.,42:00.0,closed,high,42:00.0,2880
+2,21,18,inquiry,App Crash on Payment,User #21 reports issue: app crash on payment.,58:00.0,open,low,NULL,NULL
+3,37,47,inquiry,General Feedback,User #37 reports issue: general feedback.,54:00.0,closed,medium,54:00.0,720
+4,24,17,inquiry,Trip Change Request,User #24 reports issue: trip change request.,44:00.0,resolved,low,44:00.0,360
+5,38,42,inquiry,Travel Dates Clarification,User #38 reports issue: travel dates clarification.,32:00.0,open,high,NULL,NULL
+6,24,NULL,inquiry,Login Not Working,User #24 reports issue: login not working.,07:00.0,open,high,NULL,NULL
+7,44,8,inquiry,Login Not Working,User #44 reports issue: login not working.,24:00.0,closed,low,24:00.0,1080
+8,39,NULL,support,App Crash on Payment,User #39 reports issue: app crash on payment.,01:00.0,resolved,high,01:00.0,2400
+9,24,25,inquiry,Need Refund Details,User #24 reports issue: need refund details.,03:00.0,in progress,medium,NULL,NULL
+10,39,26,support,Travel Dates Clarification,User #39 reports issue: travel dates clarification.,57:00.0,closed,medium,57:00.0,2940
+11,5,31,inquiry,Voucher Code Invalid,User #5 reports issue: voucher code invalid.,47:00.0,resolved,medium,47:00.0,3780
+12,47,12,support,Booking Confirmation Issue,User #47 reports issue: booking confirmation issue.,16:00.0,resolved,low,16:00.0,1980
+13,33,34,inquiry,Voucher Code Invalid,User #33 reports issue: voucher code invalid.,31:00.0,resolved,high,31:00.0,3660
+14,43,10,inquiry,Travel Dates Clarification,User #43 reports issue: travel dates clarification.,51:00.0,closed,medium,51:00.0,2820
+15,43,NULL,inquiry,General Feedback,User #43 reports issue: general feedback.,41:00.0,closed,medium,41:00.0,1260
+16,19,40,inquiry,Booking Confirmation Issue,User #19 reports issue: booking confirmation issue.,39:00.0,open,high,NULL,NULL
+17,46,32,support,App Crash on Payment,User #46 reports issue: app crash on payment.,39:00.0,open,medium,NULL,NULL
+18,34,31,support,Trip Change Request,User #34 reports issue: trip change request.,09:00.0,in progress,high,NULL,NULL
+19,21,NULL,support,Trip Change Request,User #21 reports issue: trip change request.,30:00.0,closed,high,30:00.0,540
+20,41,NULL,support,General Feedback,User #41 reports issue: general feedback.,10:00.0,resolved,high,10:00.0,3480
+21,32,41,support,App Crash on Payment,User #32 reports issue: app crash on payment.,49:00.0,closed,medium,49:00.0,4320
+22,18,38,support,Login Not Working,User #18 reports issue: login not working.,23:00.0,open,low,NULL,NULL
+23,33,18,inquiry,Travel Dates Clarification,User #33 reports issue: travel dates clarification.,59:00.0,resolved,low,59:00.0,660
+24,16,41,support,Help With Digital Pass,User #16 reports issue: help with digital pass.,47:00.0,in progress,medium,NULL,NULL
+25,24,NULL,support,Voucher Code Invalid,User #24 reports issue: voucher code invalid.,10:00.0,open,medium,NULL,NULL
+26,36,NULL,inquiry,Trip Change Request,User #36 reports issue: trip change request.,22:00.0,open,low,NULL,NULL
+27,34,12,inquiry,Need Refund Details,User #34 reports issue: need refund details.,54:00.0,closed,low,54:00.0,1740
+28,45,9,inquiry,Need Refund Details,User #45 reports issue: need refund details.,15:00.0,open,high,NULL,NULL
+29,25,NULL,inquiry,Voucher Code Invalid,User #25 reports issue: voucher code invalid.,00:00.0,closed,high,00:00.0,4260
+30,43,NULL,support,Help With Digital Pass,User #43 reports issue: help with digital pass.,23:00.0,resolved,high,23:00.0,1440
+31,10,NULL,support,Voucher Code Invalid,User #10 reports issue: voucher code invalid.,00:00.0,open,medium,NULL,NULL
+32,49,NULL,support,Inquiry About Destination,User #49 reports issue: inquiry about destination.,03:00.0,in progress,medium,NULL,NULL
+33,15,45,inquiry,Trip Change Request,User #15 reports issue: trip change request.,46:00.0,open,low,NULL,NULL
+34,43,8,support,Booking Confirmation Issue,User #43 reports issue: booking confirmation issue.,48:00.0,closed,high,48:00.0,2220
+35,17,13,support,Login Not Working,User #17 reports issue: login not working.,16:00.0,resolved,high,16:00.0,720
+36,38,3,inquiry,Inquiry About Destination,User #38 reports issue: inquiry about destination.,14:00.0,open,medium,NULL,NULL
+37,45,28,support,Inquiry About Destination,User #45 reports issue: inquiry about destination.,00:00.0,resolved,low,00:00.0,3780
+38,1,17,support,General Feedback,User #1 reports issue: general feedback.,14:00.0,in progress,low,NULL,NULL
+39,27,16,inquiry,General Feedback,User #27 reports issue: general feedback.,33:00.0,closed,medium,33:00.0,1980
+40,9,NULL,support,App Crash on Payment,User #9 reports issue: app crash on payment.,06:00.0,in progress,high,NULL,NULL
+41,7,1,support,Trip Change Request,User #7 reports issue: trip change request.,25:00.0,closed,medium,25:00.0,4080
+42,50,31,support,Voucher Code Invalid,User #50 reports issue: voucher code invalid.,55:00.0,open,medium,NULL,NULL
+43,27,NULL,support,Login Not Working,User #27 reports issue: login not working.,54:00.0,resolved,low,54:00.0,60
+44,50,6,inquiry,General Feedback,User #50 reports issue: general feedback.,59:00.0,open,low,NULL,NULL
+45,25,49,support,Help With Digital Pass,User #25 reports issue: help with digital pass.,33:00.0,closed,medium,33:00.0,2580
+46,46,18,support,Login Not Working,User #46 reports issue: login not working.,07:00.0,in progress,high,NULL,NULL
+47,33,NULL,support,Trip Change Request,User #33 reports issue: trip change request.,48:00.0,open,low,NULL,NULL
+48,23,47,support,Need Refund Details,User #23 reports issue: need refund details.,40:00.0,in progress,medium,NULL,NULL
+49,48,40,support,General Feedback,User #48 reports issue: general feedback.,51:00.0,in progress,high,NULL,NULL
+50,24,22,inquiry,Trip Change Request,User #24 reports issue: trip change request.,03:00.0,open,medium,NULL,NULL

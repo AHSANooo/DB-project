@@ -1,0 +1,51 @@
+﻿id,user_id,review_type,reference_id,rating,comment,posted_at,is_moderated
+1,21,hotel,26,1,Very well organized.,06:00.0,1
+2,38,trip,33,2,Amazing experience!,26:00.0,0
+3,16,trip,36,4,Amazing experience!,07:00.0,0
+4,41,trip,37,5,Too expensive.,02:00.0,0
+5,19,guide,10,5,Very well organized.,35:00.0,0
+6,7,hotel,24,1,Service was top-notch!,36:00.0,0
+7,40,hotel,32,5,Too expensive.,29:00.0,1
+8,24,service,16,2,Would recommend.,19:00.0,1
+9,22,guide,19,5,Very well organized.,26:00.0,0
+10,49,service,10,4,Too expensive.,04:00.0,1
+11,22,service,39,4,Not what I expected.,04:00.0,0
+12,18,guide,45,1,Amazing experience!,19:00.0,1
+13,19,guide,43,3,Amazing experience!,10:00.0,0
+14,32,trip,14,3,Could be better.,25:00.0,1
+15,32,trip,11,4,Too expensive.,56:00.0,0
+16,28,service,46,4,Lovely accommodation.,14:00.0,0
+17,6,hotel,10,2,Would recommend.,53:00.0,0
+18,17,service,1,2,Too expensive.,39:00.0,1
+19,9,trip,30,5,Too expensive.,25:00.0,0
+20,31,guide,4,2,Very well organized.,10:00.0,0
+21,22,trip,7,1,Not what I expected.,06:00.0,1
+22,40,trip,5,2,Not what I expected.,40:00.0,1
+23,23,service,31,1,Very well organized.,30:00.0,1
+24,20,trip,10,1,Lovely accommodation.,30:00.0,0
+25,34,trip,14,5,Lovely accommodation.,34:00.0,0
+26,49,service,42,1,Excellent guide service.,58:00.0,0
+27,23,hotel,35,5,Service was top-notch!,14:00.0,0
+28,16,guide,48,2,Would recommend.,22:00.0,0
+29,2,service,31,3,Would recommend.,22:00.0,1
+30,47,service,24,1,Would recommend.,30:00.0,0
+31,22,hotel,31,5,Not what I expected.,58:00.0,1
+32,42,trip,43,1,Too expensive.,48:00.0,0
+33,31,hotel,28,3,Very well organized.,25:00.0,1
+34,26,trip,47,2,Could be better.,09:00.0,1
+35,42,hotel,40,5,Great value for money.,09:00.0,0
+36,2,trip,47,1,Service was top-notch!,27:00.0,0
+37,14,trip,17,2,Excellent guide service.,48:00.0,1
+38,17,guide,9,1,Lovely accommodation.,37:00.0,1
+39,33,hotel,35,2,Service was top-notch!,55:00.0,1
+40,50,hotel,39,1,Could be better.,30:00.0,0
+41,36,trip,21,5,Service was top-notch!,50:00.0,0
+42,36,trip,16,2,Excellent guide service.,32:00.0,1
+43,36,trip,49,1,Great value for money.,32:00.0,0
+44,45,service,29,5,Service was top-notch!,32:00.0,0
+45,45,service,36,2,Great value for money.,07:00.0,1
+46,29,service,5,2,Too expensive.,42:00.0,1
+47,8,hotel,46,3,Could be better.,29:00.0,0
+48,48,trip,26,4,Could be better.,10:00.0,1
+49,33,guide,22,4,Would recommend.,05:00.0,1
+50,2,service,36,4,Great value for money.,24:00.0,1

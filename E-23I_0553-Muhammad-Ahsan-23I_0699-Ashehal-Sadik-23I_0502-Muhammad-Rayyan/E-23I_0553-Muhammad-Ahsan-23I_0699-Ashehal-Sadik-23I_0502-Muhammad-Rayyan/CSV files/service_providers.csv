@@ -1,0 +1,51 @@
+﻿id,company_name,service_type_id,license,description,website
+1,Global Stays Ltd,1,LIC-SP-001,International hotel and resort group,https://globalstays.example.com
+2,CityLink Transit,2,LIC-SP-002,Reliable airport and city shuttle service,https://citylinktransit.com
+3,Heritage Guides Inc.,3,LIC-SP-003,Expert cultural tour guides in historic cities,https://heritageguides.org
+4,Peak Adventure Co.,4,LIC-SP-004,Mountain trekking and adventure guiding,https://peakadventure.co
+5,AquaCraft Rentals,5,LIC-SP-005,Boat and yacht rental services for coastal trips,https://aquacraftrentals.com
+6,DrivePro Chauffeurs,6,LIC-SP-006,Professional private driver services,https://driveprochauffeurs.net
+7,MetroRide Pass,7,LIC-SP-007,Prepaid local transport passes,https://metroridepass.com
+8,Gourmet Eats Voucher,8,LIC-SP-008,Prepaid restaurant and dining vouchers,https://gourmeteatsvoucher.com
+9,Serene Spa Retreats,9,LIC-SP-009,"Spa, massage, and wellness center access",https://serenespa.com
+10,CultureCraft Experiences,10,LIC-SP-010,Hands-on cultural workshops and classes,https://culturecraftexp.com
+11,BagEase Logistics,11,LIC-SP-011,Luggage transport and secure storage services,https://bageaselogistics.com
+12,Pedal City Bikes,12,LIC-SP-012,City bike rental and guided cycling tours,https://pedalcitybikes.org
+13,Snapshot Memories,13,LIC-SP-013,Professional photography services during your trip,https://snapshotmemories.com
+14,LinguaLink Translators,14,LIC-SP-014,On-the-ground translation and interpreter services,https://lingualink.com
+15,HealthGuard Medical,15,LIC-SP-015,Travel health assistance and on-call clinics,https://healthguardmedical.net
+16,LoungeLux Airport,16,LIC-SP-016,Premium airport lounge access passes,https://loungeluxairport.com
+17,StayConnected SIMs,17,LIC-SP-017,Local SIM cards and portable Wi-Fi device rentals,https://stayconnectedsims.com
+18,SafeTravel Insurance,18,LIC-SP-018,Short-term travel insurance plans,https://safetravelinsurance.org
+19,Concierge 24/7,19,LIC-SP-019,Dedicated personal concierge service,https://concierge247.com
+20,ResortSplash Activities,20,LIC-SP-020,Water sports and resort activity bookings,https://resortsplashactivities.com
+21,QuickCab Booking,21,LIC-SP-021,On-demand taxi and cab booking service,https://quickcabbooking.com
+22,PetBnB Services,22,LIC-SP-022,Pet boarding and care while you travel,https://petbnbservices.org
+23,RoomDelight Service,23,LIC-SP-023,In-room dining and housekeeping on demand,https://roomdelightservice.com
+24,EventPasses Online,24,LIC-SP-024,"Pre-booked tickets to concerts, shows, and sports",https://eventpassesonline.com
+25,VisaAssist Hub,25,LIC-SP-025,End-to-end visa application and document handling,https://visaassisthub.net
+26,Tiny Tots Care,26,LIC-SP-026,Certified childcare and babysitting services,https://tinytotscare.com
+27,FreshThreads Laundry,27,LIC-SP-027,"Laundry pickup, washing, and ironing services",https://freshthreadslaundry.com
+28,FitPass Gyms,28,LIC-SP-028,Day passes to local gyms and fitness centers,https://fitpassgyms.org
+29,CampGear Rentals,29,LIC-SP-029,"Tents, sleeping bags, and camping equipment rentals",https://campgearrentals.com
+30,Souvenir Corner,30,LIC-SP-030,Discount vouchers for gift shops and local crafts,https://souvenircorner.com
+31,AirPick Transfers,31,LIC-SP-031,Private airport pickup and drop-off service,https://airpicktransfers.com
+32,RailPass Global,32,LIC-SP-032,Unlimited train pass for inter-city travel,https://railpassglobal.net
+33,EliteDrive Rent-A-Car,33,LIC-SP-033,Luxury car rental services,https://elitedriverentacar.com
+34,CruiseLine Excursions,34,LIC-SP-034,Short cruises and ferry services,https://cruiselineexcursions.com
+35,Desert Quest Safari,35,LIC-SP-035,Guided desert safaris and camel tours,https://desertquestsafari.com
+36,SnorkelPro Gear,36,LIC-SP-036,Professional snorkeling equipment rentals,https://snorkelprogear.org
+37,SkiWorld Passes,37,LIC-SP-037,All-day ski slope access and gear hire,https://skiworldpasses.com
+38,ZipLine Adventures,38,LIC-SP-038,High-wire and zip-line thrill experiences,https://ziplineadventures.net
+39,ParaGlide Flights,39,LIC-SP-039,Safe tandem paragliding for beginners,https://paraglideflights.com
+40,TravelerGear Shop,40,LIC-SP-040,On-the-go travel accessories and essentials,https://travelergearshop.com
+41,TrailGuide Experts,41,LIC-SP-041,Professional hiking and trail guide services,https://trailguideexperts.org
+42,PermitAssist Tours,42,LIC-SP-042,Help obtaining trekking permits and trail access,https://permitassisttours.com
+43,EcoLodge Network,43,LIC-SP-043,Collection of eco-friendly lodging options,https://ecolodgenetwork.com
+44,HeliSight Flights,44,LIC-SP-044,Helicopter sightseeing and remote transport,https://helisightflights.com
+45,MediHelp Emergency,45,LIC-SP-045,24/7 emergency helpline and support team,https://medihelpemergency.org
+46,WelcomePack Gifts,46,LIC-SP-046,Arrival welcome kits with snacks and local items,https://welcomepackgifts.com
+47,DroneView Media,47,LIC-SP-047,Aerial drone photography and videography,https://droneviewmedia.net
+48,FestivalFast Pass,48,LIC-SP-048,Priority entry to cultural and music festivals,https://festivalfastpass.com
+49,Volunteer Connect,49,LIC-SP-049,Coordinated volunteer and community service options,https://volunteerconnect.org
+50,FoodieTrail Tours,50,LIC-SP-050,Guided gastronomy tours and local food tastings,https://foodietrail.com

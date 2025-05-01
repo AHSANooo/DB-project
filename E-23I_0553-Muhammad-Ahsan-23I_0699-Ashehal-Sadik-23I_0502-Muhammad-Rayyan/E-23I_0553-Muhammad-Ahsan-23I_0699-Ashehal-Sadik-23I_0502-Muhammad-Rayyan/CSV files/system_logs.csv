@@ -1,0 +1,51 @@
+﻿id,user_id,log_type,activity_type,action,description,ip_address,user_agent,timestamp
+1,1,activity,login,NULL,User #1 logged in.,192.168.0.1,Mozilla/5.0,15:00.0
+2,2,audit,NULL,User Approved,Admin approved user #2.,192.168.0.2,Chrome/110.0,30:00.0
+3,3,activity,search,NULL,"User #3 searched for ""beach trips"".",192.168.0.3,Safari/15.0,45:00.0
+4,4,audit,NULL,Category Added,"Admin added category ""Adventure"".",192.168.0.4,Edge/91.0,00:00.0
+5,5,activity,booking,NULL,User #5 created booking #7.,192.168.0.5,Mozilla/5.0,10:00.0
+6,6,audit,NULL,Trip Created,Operator #6 created trip #12.,192.168.0.6,Chrome/110.0,20:00.0
+7,7,activity,review,NULL,User #7 posted a review.,192.168.0.7,Safari/15.0,30:00.0
+8,8,audit,NULL,Booking Deleted,Admin deleted booking #8.,192.168.0.8,Edge/91.0,40:00.0
+9,9,activity,logout,NULL,User #9 logged out.,192.168.0.9,Mozilla/5.0,50:00.0
+10,10,audit,NULL,Refund Processed,System processed refund for booking #10.,192.168.0.10,Chrome/110.0,00:00.0
+11,11,activity,search,NULL,"User #11 searched for ""mountain tours"".",192.168.0.11,Safari/15.0,05:00.0
+12,12,audit,NULL,User Approved,Admin approved user #12.,192.168.0.12,Edge/91.0,15:00.0
+13,13,activity,booking,NULL,User #13 created booking #15.,192.168.0.13,Mozilla/5.0,25:00.0
+14,14,audit,NULL,Trip Created,Operator #14 created trip #20.,192.168.0.14,Chrome/110.0,35:00.0
+15,15,activity,review,NULL,User #15 posted a review.,192.168.0.15,Safari/15.0,45:00.0
+16,16,audit,NULL,Category Added,"Admin added category ""Cultural"".",192.168.0.16,Edge/91.0,55:00.0
+17,17,activity,search,NULL,"User #17 searched for ""desert safari"".",192.168.0.17,Mozilla/5.0,05:00.0
+18,18,audit,NULL,Booking Deleted,Admin deleted booking #18.,192.168.0.18,Chrome/110.0,15:00.0
+19,19,activity,logout,NULL,User #19 logged out.,192.168.0.19,Safari/15.0,25:00.0
+20,20,audit,NULL,Refund Processed,System processed refund for booking #20.,192.168.0.20,Edge/91.0,35:00.0
+21,21,activity,booking,NULL,User #21 created booking #22.,192.168.0.21,Mozilla/5.0,45:00.0
+22,22,audit,NULL,User Approved,Admin approved user #22.,192.168.0.22,Chrome/110.0,55:00.0
+23,23,activity,search,NULL,"User #23 searched for ""city tour"".",192.168.0.23,Safari/15.0,05:00.0
+24,24,audit,NULL,Trip Created,Operator #24 created trip #28.,192.168.0.24,Edge/91.0,15:00.0
+25,25,activity,review,NULL,User #25 posted a review.,192.168.0.25,Mozilla/5.0,25:00.0
+26,26,audit,NULL,Category Added,"Admin added category ""Leisure"".",192.168.0.26,Chrome/110.0,35:00.0
+27,27,activity,logout,NULL,User #27 logged out.,192.168.0.27,Safari/15.0,45:00.0
+28,28,audit,NULL,Booking Deleted,Admin deleted booking #28.,192.168.0.28,Edge/91.0,55:00.0
+29,29,activity,search,NULL,"User #29 searched for ""jungle safari"".",192.168.0.29,Mozilla/5.0,05:00.0
+30,30,audit,NULL,Refund Processed,System processed refund for booking #30.,192.168.0.30,Chrome/110.0,15:00.0
+31,31,activity,booking,NULL,User #31 created booking #35.,192.168.0.31,Safari/15.0,25:00.0
+32,32,audit,NULL,User Approved,Admin approved user #32.,192.168.0.32,Edge/91.0,35:00.0
+33,33,activity,review,NULL,User #33 posted a review.,192.168.0.33,Mozilla/5.0,45:00.0
+34,34,audit,NULL,Category Added,"Admin added category ""Wildlife"".",192.168.0.34,Chrome/110.0,55:00.0
+35,35,activity,search,NULL,"User #35 searched for ""pilgrimage tour"".",192.168.0.35,Safari/15.0,05:00.0
+36,36,audit,NULL,Trip Created,Operator #36 created trip #40.,192.168.0.36,Edge/91.0,15:00.0
+37,37,activity,logout,NULL,User #37 logged out.,192.168.0.37,Mozilla/5.0,25:00.0
+38,38,audit,NULL,Booking Deleted,Admin deleted booking #38.,192.168.0.38,Chrome/110.0,35:00.0
+39,39,activity,booking,NULL,User #39 created booking #42.,192.168.0.39,Safari/15.0,45:00.0
+40,40,audit,NULL,Refund Processed,System processed refund for booking #40.,192.168.0.40,Edge/91.0,55:00.0
+41,41,activity,search,NULL,"User #41 searched for ""art tour"".",192.168.0.41,Mozilla/5.0,05:00.0
+42,42,audit,NULL,User Approved,Admin approved user #42.,192.168.0.42,Chrome/110.0,15:00.0
+43,43,activity,review,NULL,User #43 posted a review.,192.168.0.43,Safari/15.0,25:00.0
+44,44,audit,NULL,Category Added,"Admin added category ""Cuisine"".",192.168.0.44,Edge/91.0,35:00.0
+45,45,activity,logout,NULL,User #45 logged out.,192.168.0.45,Mozilla/5.0,45:00.0
+46,46,audit,NULL,Trip Created,Operator #46 created trip #48.,192.168.0.46,Chrome/110.0,55:00.0
+47,47,activity,search,NULL,"User #47 searched for ""ski trip"".",192.168.0.47,Safari/15.0,05:00.0
+48,48,audit,NULL,Booking Deleted,Admin deleted booking #48.,192.168.0.48,Edge/91.0,15:00.0
+49,49,activity,booking,NULL,User #49 created booking #50.,192.168.0.49,Mozilla/5.0,25:00.0
+50,50,audit,NULL,Refund Processed,System processed refund for booking #50.,192.168.0.50,Chrome/110.0,35:00.0

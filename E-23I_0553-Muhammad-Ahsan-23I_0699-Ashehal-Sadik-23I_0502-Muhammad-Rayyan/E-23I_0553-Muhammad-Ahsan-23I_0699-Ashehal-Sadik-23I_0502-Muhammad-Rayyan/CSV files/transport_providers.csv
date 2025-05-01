@@ -1,0 +1,51 @@
+﻿provider_id,vehicle_type,capacity,license_plate
+1,Airport Shuttle Bus,50,TPL-0001
+2,City Tour Van,15,TPL-0002
+3,Executive Sedan,4,TPL-0003
+4,Minibus,20,TPL-0004
+5,Luxury SUV,6,TPL-0005
+6,Private Limousine,4,TPL-0006
+7,Electric City Car,2,TPL-0007
+8,Double-Decker Bus,60,TPL-0008
+9,Standard Taxi,4,TPL-0009
+10,Eco-Friendly Van,8,TPL-0010
+11,Airport Coach Bus,45,TPL-0011
+12,Family SUV,7,TPL-0012
+13,Shuttle Van,12,TPL-0013
+14,Electric Minivan,8,TPL-0014
+15,Convertible Sedan,2,TPL-0015
+16,Tourist Tram,30,TPL-0016
+17,Vintage Coach,25,TPL-0017
+18,Luxury Sprinter Van,12,TPL-0018
+19,Camper Van,6,TPL-0019
+20,Off-Road 4×4,5,TPL-0020
+21,Helicopter,6,TPL-0021
+22,River Ferry,100,TPL-0022
+23,Seaside Water Taxi,20,TPL-0023
+24,City Bicycle Rental,1,TPL-0024
+25,Electric Scooter,1,TPL-0025
+26,Touring Motorcycle,2,TPL-0026
+27,Autonomous Shuttle,10,TPL-0027
+28,Night-Safety Taxi,4,TPL-0028
+29,VIP Executive Bus,40,TPL-0029
+30,Medical Transport Van,4,TPL-0030
+31,Snowcat,8,TPL-0031
+32,Mountain Cable Car,30,TPL-0032
+33,Tourist Tram (Heritage),20,TPL-0033
+34,Park Sightseeing Train,50,TPL-0034
+35,Desert Jeep,5,TPL-0035
+36,Beach Buggy,2,TPL-0036
+37,Airport Electric Shuttle,25,TPL-0037
+38,River Cruise Boat,80,TPL-0038
+39,City Minibus,18,TPL-0039
+40,Vintage Trolley,30,TPL-0040
+41,Safari Land Rover,7,TPL-0041
+42,Jungle Expedition Truck,10,TPL-0042
+43,All-Terrain Tram,15,TPL-0043
+44,Coastal Cruise Ship,200,TPL-0044
+45,Harbor Ferry,120,TPL-0045
+46,Urban Cable Car,25,TPL-0046
+47,Island Water Taxi,30,TPL-0047
+48,Heli-Taxi,4,TPL-0048
+49,Luxury River Yacht,12,TPL-0049
+50,Sightseeing Hot Air Balloon,8,TPL-0050
